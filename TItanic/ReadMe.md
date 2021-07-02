@@ -1,1 +1,1 @@
-This is a tutorial in Google Colab Titanic dataset using pyspark 
+This is a tutorial in Google Colab on Titanic dataset using pyspark 
